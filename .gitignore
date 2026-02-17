@@ -1,0 +1,14 @@
+# clasp files
+.clasp.json
+
+# Node / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS junk
+.DS_Store
+
+# Editor files
+.vscode/
+*.code-workspace
